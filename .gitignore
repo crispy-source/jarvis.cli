@@ -1,0 +1,6 @@
+/build/
+*.o
+.env
+.env.*
+/conversations/
+/history/
