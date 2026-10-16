@@ -23,11 +23,11 @@ Vreau să construiesc o interfață prin care să pot pune întrebări, să păs
 - Integrarea modelelor AI și conceptele de context, tokeni și RAG.
 - Separat, fundamente ML: mecanismul attention, arhitectura Transformer și backpropagation. Acestea sunt teme de studiu, nu implementări proprii declarate în proiect.
 
-Comenzile Git gestionează istoricul codului; pipe-urile și redirecționările Bash conectează fluxurile de intrare și ieșire ale programelor. RAG presupune recuperarea unor informații relevante și furnizarea lor modelului, nu antrenarea acestuia.
+Comenzile Git gestionează istoricul codului; pipe-urile și redirecționările Bash conectează fluxurile de intrare și ieșire ale programelor. 
 
 ## Costuri și evaluare
 
-Reducerea costurilor este un obiectiv de verificat. Un CLI local nu reduce automat tokenii facturați de un API. Vreau să compar consumul cu și fără selectarea contextului, folosind aceleași întrebări, și să urmăresc și calitatea răspunsurilor. Cache-ul sau un model local pot fi direcții ulterioare; nu sunt funcții deja realizate.
+Reducerea costurilor este un obiectiv de verificat. Vreau să compar consumul cu și fără selectarea contextului, folosind aceleași întrebări, și să urmăresc și calitatea răspunsurilor. Cache-ul sau un model local pot fi direcții ulterioare; nu sunt funcții deja realizate.
 
 ## Primul prototip planificat
 
